@@ -4,6 +4,17 @@
 
 It is useful in CI, deployment preflight checks, and local development when `.env.example` drifts away from `.env`.
 
+## Download and install
+
+Clone the repository on Linux, macOS, or Windows:
+
+```bash
+git clone https://github.com/KamiBuilds/env-template-audit.git
+cd env-template-audit
+```
+
+No package installation is required. On Linux/macOS, use `python3`; on Windows PowerShell, replace `python3` with `py` in the commands below.
+
 ## Requirements
 
 - Python 3.11 or newer
